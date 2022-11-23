@@ -1,3 +1,60 @@
 {
-   "material": []
+   "material": [
+      {
+         "id": 1,
+         "material_id": "felt",
+         "name": "Felt",
+         "deleted_at": null,
+         "is_deleted": false,
+         "is_active": false,
+         "image": "materials/Felt.jpg",
+         "description": "TBD",
+         "hints": "TBD",
+         "safety_notes": "TBD",
+         "languages": [
+            {
+               "id": 2,
+               "name": "German"
+            }
+         ],
+         "translations": [
+            {
+               "id": 1,
+               "language": "German",
+               "description": "TBD",
+               "safety_notes": "TBD",
+               "name": "Filz",
+               "hints": "TBD",
+               "url": ""
+            }
+         ],
+         "url": "",
+         "device_combinations": [
+            {
+               "material_device_id": 1,
+               "dev_com_id": 4,
+               "dev_com_name": "Mr Beam II Dreamcut [S]-[S]",
+               "device_id": "4",
+               "laserhead_id": "1",
+               "material_settings": [
+                  {
+                     "id": 1,
+                     "color": "#fbfbfb",
+                     "thickness": 0.1,
+                     "intensity": 1,
+                     "speed_light": 1,
+                     "speed_dark": 1,
+                     "passes": 1,
+                     "progressive_cut": true,
+                     "compressor": 0,
+                     "piercing_time": 1,
+                     "dithering": true,
+                     "line_distance": 0.05,
+                     "comment": "This is just a test"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }

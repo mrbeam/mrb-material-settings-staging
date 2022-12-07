@@ -55,52 +55,6 @@
                ]
             }
          ]
-      },
-      {
-         "id": 2,
-         "material_id": "josef_",
-         "name": "josef_felt",
-         "deleted_at": null,
-         "is_deleted": false,
-         "is_active": false,
-         "image": "materials/IMG_20221120_115710_2_2.jpg",
-         "description": "test felt material",
-         "hints": "nothing",
-         "safety_notes": "don't use",
-         "languages": [
-            {
-               "id": 2,
-               "name": "German"
-            }
-         ],
-         "translations": [],
-         "url": "https://github.com/mrbeamtest",
-         "device_combinations": [
-            {
-               "material_device_id": 2,
-               "dev_com_id": 1,
-               "dev_com_name": "Mr Beam-Mr Beam II Laserhead",
-               "device_id": "0",
-               "laserhead_id": "0",
-               "material_settings": [
-                  {
-                     "id": 2,
-                     "color": "#aabbcc",
-                     "thickness": 33.0,
-                     "intensity": 6,
-                     "speed_light": 0,
-                     "speed_dark": 66,
-                     "passes": 5,
-                     "progressive_cut": true,
-                     "compressor": 1,
-                     "piercing_time": 88,
-                     "dithering": true,
-                     "line_distance": 1.0,
-                     "comment": "test"
-                  }
-               ]
-            }
-         ]
       }
    ]
 }

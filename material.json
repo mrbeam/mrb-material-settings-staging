@@ -55,6 +55,36 @@
                ]
             }
          ]
+      },
+      {
+         "id": 3,
+         "material_id": "ahmed_test_id",
+         "name": "ahmed_test",
+         "deleted_at": null,
+         "is_deleted": false,
+         "is_active": false,
+         "image": "materials/IMG_20221120_115710_2_2_9SSZTS9.jpg",
+         "description": "NA",
+         "hints": "nothing",
+         "safety_notes": "vv",
+         "languages": [
+            {
+               "id": 2,
+               "name": "German"
+            }
+         ],
+         "translations": [],
+         "url": "",
+         "device_combinations": [
+            {
+               "material_device_id": 3,
+               "dev_com_id": 1,
+               "dev_com_name": "Mr Beam-Mr Beam II Laserhead",
+               "device_id": "0",
+               "laserhead_id": "0",
+               "material_settings": []
+            }
+         ]
       }
    ]
 }

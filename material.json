@@ -2,8 +2,8 @@
    "material": [
       {
          "id": 1,
-         "material_id": "felt",
-         "name": "Felt",
+         "material_id": "feltttt",
+         "name": "Felttttt",
          "deleted_at": null,
          "is_deleted": false,
          "is_active": false,
@@ -39,6 +39,30 @@
                "material_settings": [
                   {
                      "id": 1,
+                     "color": "#fbfbfb",
+                     "thickness": 0.1,
+                     "intensity": 1,
+                     "speed_light": 1,
+                     "speed_dark": 1,
+                     "passes": 1,
+                     "progressive_cut": true,
+                     "compressor": 0,
+                     "piercing_time": 1,
+                     "dithering": true,
+                     "line_distance": 0.05,
+                     "comment": "This is just a test"
+                  }
+               ]
+            },
+            {
+               "material_device_id": 4,
+               "dev_com_id": 3,
+               "dev_com_name": "Mr Beam II Dreamcut-Mr Beam II Laserhead",
+               "device_id": "3",
+               "laserhead_id": "0",
+               "material_settings": [
+                  {
+                     "id": 3,
                      "color": "#fbfbfb",
                      "thickness": 0.1,
                      "intensity": 1,

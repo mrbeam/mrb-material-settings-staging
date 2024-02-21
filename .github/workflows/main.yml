@@ -1,0 +1,38 @@
+name: Update tags on mrbeam/mrb3-beamOS
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  update-material-settings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v4
+
+      - name: Checkout mrb3-core-plugin
+        uses: actions/checkout@v4
+        with:
+            repository: mrbeam/mrb3-core-plugin
+            path: mrb3-core-plugin
+            token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+            ref: ${{vars.TARGET_BRANCH}}
+      - name: Copy files
+        run: |
+          cd $GITHUB_WORKSPACE
+          cp -r material.json $GITHUB_WORKSPACE/mrb3-core-plugin/octoprint_mrbeam/material_settings/materials_settings.json
+          cd $GITHUB_WORKSPACE/mrb3-core-plugin/octoprint_mrbeam/material_settings
+          jq --arg tag_name "${{ github.event.release.tag_name }}" '. + {version: $tag_name}' materials_settings.json > tmp.json && mv tmp.json materials_settings.json
+
+      - name: Commit and push
+        run: |
+          cd $GITHUB_WORKSPACE/mrb3-core-plugin
+          
+          git config --global user.email "${{vars.SW_AUTOMATIONS_EMAIL}}"
+          git config --global user.name "${{vars.SW_AUTOMATIONS_NAME}}"
+          
+          git add .
+          git commit -m "Update material settings to ${{ github.event.release.tag_name }}"
+          git push

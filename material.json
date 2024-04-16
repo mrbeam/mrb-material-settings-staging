@@ -16,7 +16,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": []
@@ -37,7 +38,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 5,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 7,
@@ -45,7 +47,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 6,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": []
@@ -193,7 +196,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 46,
@@ -244,7 +248,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 67,
@@ -358,7 +363,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 92,
@@ -472,7 +478,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -536,7 +543,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 47,
@@ -566,7 +574,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 68,
@@ -596,7 +605,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 93,
@@ -626,7 +636,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -764,7 +775,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 48,
@@ -815,7 +827,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 69,
@@ -929,7 +942,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 94,
@@ -1043,7 +1057,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -1139,7 +1154,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 49,
@@ -1211,7 +1227,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 70,
@@ -1283,7 +1300,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 95,
@@ -1355,7 +1373,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -1409,7 +1428,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 50,
@@ -1439,7 +1459,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 71,
@@ -1469,7 +1490,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 96,
@@ -1499,7 +1521,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -2267,7 +2290,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 51,
@@ -2549,7 +2573,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 72,
@@ -2936,7 +2961,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 97,
@@ -3365,7 +3391,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -3732,7 +3759,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 52,
@@ -3804,7 +3832,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 73,
@@ -3876,7 +3905,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 98,
@@ -3969,7 +3999,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -4317,7 +4348,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 53,
@@ -4599,7 +4631,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 74,
@@ -4881,7 +4914,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 99,
@@ -5163,7 +5197,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -5328,7 +5363,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 54,
@@ -5379,7 +5415,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 75,
@@ -5409,7 +5446,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 100,
@@ -5460,7 +5498,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -5629,7 +5668,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 56,
@@ -5701,7 +5741,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 77,
@@ -5794,7 +5835,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 102,
@@ -5908,7 +5950,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -5993,7 +6036,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 57,
@@ -6065,7 +6109,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 78,
@@ -6116,7 +6161,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -6243,7 +6289,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 58,
@@ -6336,7 +6383,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 79,
@@ -6429,7 +6477,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 103,
@@ -6522,7 +6571,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -6606,7 +6656,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 59,
@@ -6636,7 +6687,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 80,
@@ -6666,7 +6718,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 104,
@@ -6696,7 +6749,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -6991,7 +7045,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 60,
@@ -7252,7 +7307,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 81,
@@ -7513,7 +7569,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 105,
@@ -7774,7 +7831,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -8148,7 +8206,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 61,
@@ -8220,7 +8279,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 82,
@@ -8292,7 +8352,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 106,
@@ -8385,7 +8446,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -8718,7 +8780,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 62,
@@ -8937,7 +9000,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 83,
@@ -9156,7 +9220,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 107,
@@ -9375,7 +9440,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -9645,7 +9711,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 63,
@@ -9696,7 +9763,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 84,
@@ -9768,7 +9836,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 108,
@@ -9840,7 +9909,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -9904,7 +9974,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 64,
@@ -9934,7 +10005,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 85,
@@ -9964,7 +10036,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 109,
@@ -9994,7 +10067,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -10184,7 +10258,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 65,
@@ -10235,7 +10310,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 86,
@@ -10286,7 +10362,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 110,
@@ -10463,7 +10540,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -10631,7 +10709,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 87,
@@ -10703,7 +10782,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 111,
@@ -10775,7 +10855,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -10839,7 +10920,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 88,
@@ -10869,7 +10951,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 112,
@@ -10899,7 +10982,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -11078,7 +11162,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 89,
@@ -11213,7 +11298,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 113,
@@ -11348,7 +11434,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -11545,7 +11632,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 90,
@@ -11638,7 +11726,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 114,
@@ -11731,7 +11820,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -11920,7 +12010,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 115,
@@ -12013,7 +12104,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -12097,7 +12189,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 116,
@@ -12127,7 +12220,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -12233,7 +12327,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -12505,7 +12600,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -12729,7 +12825,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -12814,7 +12911,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -12883,7 +12981,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 66,
@@ -13018,7 +13117,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 91,
@@ -13048,7 +13148,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 117,
@@ -13078,7 +13179,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Rotary",
                "dev_com_id": 9,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 3
             }
          ],
          "variants": [
@@ -13193,7 +13295,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 32,
@@ -13244,7 +13347,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 40,
@@ -13252,7 +13356,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 41,
@@ -13303,7 +13408,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 42,
@@ -13311,7 +13417,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 7,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 43,
@@ -13319,7 +13426,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 8,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -13551,7 +13659,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 9,
@@ -14127,7 +14236,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 45,
@@ -14220,7 +14330,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -14465,7 +14576,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 55,
@@ -14579,7 +14691,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 1,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 76,
@@ -14693,7 +14806,8 @@
                "dev_com_name": "All devices-Mr Beam II Laserhead-Default",
                "dev_com_id": 2,
                "laserhead_id": 1,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             },
             {
                "id": 101,
@@ -14807,7 +14921,8 @@
                "dev_com_name": "All devices-[S]-Default",
                "dev_com_id": 3,
                "laserhead_id": 2,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
@@ -15152,7 +15267,8 @@
                "dev_com_name": "All devices-[x]-Default",
                "dev_com_id": 4,
                "laserhead_id": 3,
-               "device_id": null
+               "device_id": null,
+               "laser_cutter_mode_id": 1
             }
          ],
          "variants": [
